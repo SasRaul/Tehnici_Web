@@ -1,0 +1,23 @@
+{
+  "name": "gaming-room",
+  "version": "1.0.0",
+  "description": "Configurari PC-uri Gaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PC-uri",
+    "gaming",
+    "personalizate",
+    "oferte",
+    "configurare",
+    "PC",
+    "accesorii",
+    "gaming",
+    "prețuri",
+    "speciale."
+  ],
+  "author": "Sas Adrian-Raul",
+  "license": "ISC"
+}
